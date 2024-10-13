@@ -46,8 +46,10 @@ Anda dapat dengan mudah mendesain tampilan khusus Anda sendiri di Blynk untuk me
 ## Kontribusi
 Kami sangat menghargai kontribusi dari komunitas. Jika Anda menemukan masalah atau memiliki perbaikan yang ingin Anda tambahkan, silakan buat "Issue" atau "Pull Request" di repositori ini.
 
+
 ## Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 🌟 Selamat memantau suhu dan kelembapan Anda! 🌟
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
